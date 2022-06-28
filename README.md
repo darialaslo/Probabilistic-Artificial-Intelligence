@@ -5,11 +5,12 @@ This course introduces core modeling techniques and algorithms from machine lear
 
 
 
-*Objective* 
+**Objective**
+
 How can we build systems that perform well in uncertain environments? How can we develop systems that exhibit "intelligent" behavior, without prescribing explicit rules? How can we build systems that learn from experience in order to improve their performance? We will study core modeling techniques and algorithms from statistics, optimization, planning, and control and study applications in areas such as robotics. The course is designed for graduate students.
 
 
-*Topics*
+**Topics**
 - Probability
 - Probabilistic inference (variational inference, MCMC)
 - Bayesian learning (Gaussian processes, Bayesian deep learning)
