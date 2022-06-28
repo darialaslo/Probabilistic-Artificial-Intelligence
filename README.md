@@ -17,3 +17,7 @@ How can we build systems that perform well in uncertain environments? How can we
 - Probabilistic planning (MDPs, POMPDPs)
 - Multi-armed bandits and Bayesian optimization
 - Reinforcement learning
+
+
+Taken from : [Course Catalog ETH](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2022W&ansicht=KATALOGDATEN&lerneinheitId=163447&lang=en).
+
