@@ -1,5 +1,6 @@
 # Task 4: Reinforcement Learning
 
+Official text, credits to : [Authors](https://las.inf.ethz.ch/teaching/pai-f21).
 
 
 **Task description**
